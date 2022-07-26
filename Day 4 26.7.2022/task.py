@@ -1,5 +1,6 @@
 s=input()
 l=[]
+
 l[:0]=s
 sl=[]
 r=int(input())
