@@ -42,17 +42,17 @@ root = BST(None,0)
 # list1 = [10,6,3,1,6,98,3,7]
 
 # list1 = []
-list1 = [50,30,20,10,40,70,60,90]
 
-# while True:
-#     val = int(input())
-#     if val<0:
-#         break
-#     else:
-#         list1.append(val)
+# list1 = [50,30,20,10,40,70,60,90]
 
-for i in list1:
-    root.insert(i,0)
+while True:
+    val = int(input())
+    if val<0:
+        break
+    else:
+        root.insert(val,0)
+
+
 
 root.inorder()
 

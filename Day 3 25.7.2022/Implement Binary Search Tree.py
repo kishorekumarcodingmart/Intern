@@ -107,27 +107,27 @@ while True:
 for i in list1:
     root.insert(i)
 
-print("Pre Order")
-root.preordeer()
+# print("Pre Order")
+# root.preordeer()
 
-print()
-print("In Order")
-root.inorder()
+# print()
+# print("In Order")
+# root.inorder()
 
-print()
-print("Post Order")
-root.postorder()
+# print()
+# print("Post Order")
+# root.postorder()
 
-print()
-print("BFS - Level order")
-root.bfs()
+# print()
+# print("BFS - Level order")
+# root.bfs()
 
-print()
+# print()
 
 
-print(root.getHeight())
+# print(root.getHeight())
 
-print(root.common(1,7))
+print(root.common(8,11))
 
 print()
 
