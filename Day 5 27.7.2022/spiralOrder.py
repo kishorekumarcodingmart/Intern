@@ -35,15 +35,25 @@ def getspiral(mat):
 
 	return result
 
-mat = [
-	[1,2,3,4,5],
-	[6,7,8,9,10],
-	[11,12,13,14,15],
-	[16,17,18,19,20],
-	[21,22,23,24,25]
-]
 
+
+row = int(input())
+col = int(input())
+
+
+mat = []
+
+for i in range(row):          
+    a =[]
+    for j in range(col):      
+        a.append(int(input()))
+    mat.append(a)
 
 final = getspiral(mat)
 
-print(final)
+# print(final)
+
+matrix = [ final[i:i+row] for i in range(0,len(final),col) ]
+
+for i in matrix:
+	print(*i)
