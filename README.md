@@ -45,3 +45,8 @@
  - [x] [Adjacency List Representation](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%205%2027.7.2022/Adjacency%20List%20Representation.py "Adjacency List Representation.py")
  - [x] [Adjacency Matrix Representation](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%205%2027.7.2022/Adjacency%20Matrix%20Representation.py "Adjacency Matrix Representation.py") 
  - [x] [Spiral Order in Matrix](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%205%2027.7.2022/spiralOrder.py "spiralOrder.py")
+
+> [Day 6 28.7.2022](https://github.com/kishorekumarcodingmart/Intern/tree/main/Day%206%2028.7.2022 "Day 6 28.7.2022")
+
+ - [x] [Merge Sort](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%206%2028.7.2022/Merge%20Sort.py "Merge Sort.py")
+ - [x] [Selection Sort](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%206%2028.7.2022/Selection%20Sort.py "Selection Sort.py")
