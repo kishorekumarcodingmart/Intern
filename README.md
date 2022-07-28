@@ -6,6 +6,7 @@
  3. Queue
  4. Time Complexity
  5. Binary Tree Search
+ 6. Graph
 ## Daily Tasks
  
 
@@ -38,3 +39,9 @@
  - [x] [Task](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%204%2026.7.2022/task.py "task.py")
 
  
+
+> [Day 5 27.7.2022](https://github.com/kishorekumarcodingmart/Intern/tree/main/Day%205%2027.7.2022 "Day 5 27.7.2022")
+
+ - [x] [Adjacency List Representation](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%205%2027.7.2022/Adjacency%20List%20Representation.py "Adjacency List Representation.py")
+ - [x] [Adjacency Matrix Representation](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%205%2027.7.2022/Adjacency%20Matrix%20Representation.py "Adjacency Matrix Representation.py") 
+ - [x] [Spiral Order in Matrix](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%205%2027.7.2022/spiralOrder.py "spiralOrder.py")
