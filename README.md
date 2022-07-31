@@ -7,6 +7,8 @@
  4. Time Complexity
  5. Binary Tree Search
  6. Graph
+ 7. Sort
+ 8. Search
 ## Daily Tasks
  
 
@@ -50,3 +52,11 @@
 
  - [x] [Merge Sort](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%206%2028.7.2022/Merge%20Sort.py "Merge Sort.py")
  - [x] [Selection Sort](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%206%2028.7.2022/Selection%20Sort.py "Selection Sort.py")
+
+> [Day 7 29.7.2022](https://github.com/kishorekumarcodingmart/Intern/tree/main/Day%207%2029.7.2022 "Day 7 29.7.2022")
+
+ - [x] [Binary Search](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%207%2029.7.2022/Binary%20Search.py "Binary Search.py")
+ - [x] [Linear Search](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%207%2029.7.2022/Linear%20Search.py "Linear Search.py") 
+ - [x] [Climbing Stairs - Easy - LeetCode Problem](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%207%2029.7.2022/Climbing%20Stairs%20-%20Easy.py "Climbing Stairs - Easy.py")
+ - [x] [Top K Frequent Elements - Medium - LeetCode Problem](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%207%2029.7.2022/Top%20K%20Frequent%20Elements%20-%20Medium.py "Top K Frequent Elements - Medium.py")
+ - [x] [Quick Sort](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%207%2029.7.2022/Quick%20Sort.py "Quick Sort.py")
