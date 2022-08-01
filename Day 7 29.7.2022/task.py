@@ -5,46 +5,73 @@ mat = [["C","O","D","F","S"],
         ["X","L","Q","T","R"]
     ]
 
-txt = "CODINGMART"
+# txt = "codingmart"
 
-def findword(mat,txt,i,j,r,c,l):
+def findsiol(mat,txt,i,j,r,c,level):
+    if i>=r or j>=c or i<0 or j <0 or mat[i][j]=="*":
+        return False
 
-    if mat[i][j]==" ":
+    if mat[i][j]!=txt[level]:
         return False
 
     temp = mat[i][j]
+    mat[i][j] = "*"
 
-    mat[i][j] = " "
-
-    if l==len(txt):
+    if level==len(txt)-1:
+        mat[i][j] = "*"
         return True
-    
-    if mat[i][j]!=txt[l]:
-        return False
 
-    if i<0 or j<0 or i<=r or j <=c:
-        return False
+    result = (findsiol(mat,txt,i+1,j,r,c,level+1) or #down
+                findsiol(mat,txt,i,j+1,r,c,level+1) or #right
+                findsiol(mat,txt,i-1,j,r,c,level+1) or #up
+                findsiol(mat,txt,i,j-1,r,c,level+1) #left
+    )
 
-    check =  (findword(mat,txt,i+1,j,r,c,l+1) or 
-    findword(mat,txt,i,j+1,r,c,l+1) or 
-    findword(mat,txt,i-1,j,r,c,l+1) or 
-    findword(mat,txt,i,j-1,r,c,l+1) )
+    if result==True:
+        mat[i][j]="*"
+        return True
 
     mat[i][j] = temp
+    return False
 
-    return check
+
+
+# R = int(input("Enter the number of rows:"))
+# C = int(input("Enter the number of columns:"))
+
+# A = []
+# print("Enter the entries rowwise:")
+
+
+# for i in range(R):          
+#     a =[]
+#     for j in range(C):   
+#          a.append(input())
+#     A.append(a)
+
+# txt = input()
+
+R = 5
+C = 5
+txt = "CODINGMART"
 
 final = False
 
+for i in range(R):
+    for j in range(C):
+        if mat[i][j]==txt[0]:
+            final = final or findsiol(mat,txt,i,j,R,C,0)
 
-def checkon():
-    for i in range(len(mat[0])):
-        for j in range(len(mat)):
-            if findword(mat,txt,i,j,len(mat[0]),len(mat),0):
-                return True
-    return False
+for i in mat:
+    print(*i)
+print(final)
 
-print(checkon())
+    
+
+    
+
+    
+
             
 
 
