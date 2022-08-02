@@ -1,0 +1,5 @@
+txt = "abcdabcaaabc"
+
+find = "abc"
+
+
