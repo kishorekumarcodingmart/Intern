@@ -24,7 +24,7 @@ class Solution:
 
 sol = Solution()
 
-nums = [1]
-k = 1
+nums = [1,1,1,1,2,2,2,3,3]
+k = 2
 
 print(sol.topKFrequent(nums,k))
