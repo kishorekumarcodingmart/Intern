@@ -61,3 +61,9 @@
  - [x] [Climbing Stairs - Easy - LeetCode Problem](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%207%2029.7.2022/Climbing%20Stairs%20-%20Easy.py "Climbing Stairs - Easy.py")
  - [x] [Top K Frequent Elements - Medium - LeetCode Problem](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%207%2029.7.2022/Top%20K%20Frequent%20Elements%20-%20Medium.py "Top K Frequent Elements - Medium.py")
  - [x] [Quick Sort](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%207%2029.7.2022/Quick%20Sort.py "Quick Sort.py")
+
+> [Day 9 02.08.2022](https://github.com/kishorekumarcodingmart/Intern/tree/main/Day%209%2002.08.2022 "Day 9 02.08.2022")
+
+ - [x] [Z Algorithm](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%209%2002.08.2022/Z%20Algorithm.py "Z Algorithm.py")
+ - [x] [Rabin-Karp String Matching](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%209%2002.08.2022/Rabin-Karp%20String%20Matching.py "Rabin-Karp String Matching.py")
+ - [x] [Knuth-Morris-Pratt (KMP)](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%209%2002.08.2022/Knuth-Morris-Pratt%20(KMP).py "Knuth-Morris-Pratt (KMP).py")
