@@ -62,8 +62,16 @@
  - [x] [Top K Frequent Elements - Medium - LeetCode Problem](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%207%2029.7.2022/Top%20K%20Frequent%20Elements%20-%20Medium.py "Top K Frequent Elements - Medium.py")
  - [x] [Quick Sort](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%207%2029.7.2022/Quick%20Sort.py "Quick Sort.py")
 
+> [Day 8 01.8.2022](https://github.com/kishorekumarcodingmart/Intern/tree/main/Day%208%2001.8.2022 "Day 8 01.8.2022")
+
+ - [x] [Largest Rectangle in Histogram - Hard - LeetCode](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%208%2001.8.2022/Largest%20Rectangle%20in%20Histogram%20-%20Hard%20-%20LeetCode.py "Largest Rectangle in Histogram - Hard - LeetCode.py")
+ - [x] [Trapping Rain Water - Hard - LeetCode](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%208%2001.8.2022/Trapping%20Rain%20Water%20-%20Hard%20-%20LeetCode.py "Trapping Rain Water - Hard - LeetCode.py")
+ - [x] [Task](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%208%2001.8.2022/task.py "task.py")
+
 > [Day 9 02.08.2022](https://github.com/kishorekumarcodingmart/Intern/tree/main/Day%209%2002.08.2022 "Day 9 02.08.2022")
 
- - [x] [Z Algorithm](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%209%2002.08.2022/Z%20Algorithm.py "Z Algorithm.py")
+ 
+
+- [x] [Z Algorithm](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%209%2002.08.2022/Z%20Algorithm.py "Z Algorithm.py")
  - [x] [Rabin-Karp String Matching](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%209%2002.08.2022/Rabin-Karp%20String%20Matching.py "Rabin-Karp String Matching.py")
  - [x] [Knuth-Morris-Pratt (KMP)](https://github.com/kishorekumarcodingmart/Intern/blob/main/Day%209%2002.08.2022/Knuth-Morris-Pratt%20(KMP).py "Knuth-Morris-Pratt (KMP).py")
