@@ -8,8 +8,6 @@ while True:
     else:
         arr.append(n)
 
-
-
 lenofarr = len(arr)
 
 leftarr = [0]*lenofarr
