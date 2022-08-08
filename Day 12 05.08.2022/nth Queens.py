@@ -64,6 +64,6 @@ def Put(n, count):
                 count = count-1
     return False
 
-board = [[0]*n for i in range(n)]       
+# board = [[0]*n for i in range(n)]       
 Put(n, 0)
 for i in board:print(*i)
