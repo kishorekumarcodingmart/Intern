@@ -10,6 +10,7 @@
  7. Sort
  8. Search
  9. Backtracking
+ 10. Dynamic programming
 ## Daily Tasks
  
 
