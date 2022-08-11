@@ -9,7 +9,8 @@ def findsol(W, wt, val, n):
 				dp[i][w] = max(val[i-1]+ dp[i-1][w-wt[i-1]],dp[i-1][w])
 			else:
 				dp[i][w] = dp[i-1][w]
-
+	for i in dp:
+		print(*i)
 	return dp[n][W]
 
 
